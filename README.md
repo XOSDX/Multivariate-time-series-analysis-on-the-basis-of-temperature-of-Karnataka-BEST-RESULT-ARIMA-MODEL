@@ -1,4 +1,4 @@
-Multivariate Time Series Analysis based on Temperature of Karnataka
+## **Multivariate Time Series Analysis based on Temperature of Karnataka**
 This project involves a multivariate time series analysis focused on the temperature of Karnataka. It explores various predictive models, including Linear Regression, Lasso Regression, Ridge Regression, Artificial Neural Networks (ANN), and ARIMA. The ARIMA model is found to be the best-performing model for this task.
 
 Table of Contents
